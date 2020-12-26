@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour in Almaty City</string>
+
+    <!--    Name of Places-->
+    <string name="attractions_name">Attractions</string>
+    <string name="restaurants_name">Restaurants</string>
+    <string name="nature_name">Nature</string>
+    <string name="events_name">Events</string>
+
+    <!--    Attraction Data-->
+    <string name="att_11">Ascension Cathedral</string>
+    <string name="att_12">Gorkyu Park</string>
+    <string name="att_13">is the unique engineering earthquake-proof construction of 56 meters height, built by the architect K.A. Borisoglebsky and the engineer A.P. Zenkov in 1907. The Cathedral was built from blue Tian-Shan spruce according to the project of Pavel Gurde.
+    </string>
+
+    <string name="att_21">Independence Monument</string>
+    <string name="att_22">st. Nazarbayev</string>
+    <string name="att_23">is the monument of the Republic history. The complex reflects the chronicle of Kazakhstan from the times of Saks Princess Tomiris and till today time. In the center of the complex there is a symbol of independence – Golden soldier.</string>
+
+    <string name="att_31">Kok Tyube</string>
+    <string name="att_32">st. Gornyy</string>
+    <string name="att_33">is a hill place that borders on Almaty in the South. Kok-Tyube height is 1070 meters. On the top there is an observation area. Kok-Tyube is the best place for watching the night city. It is possible to get Kok-Tyube on the cable road.</string>
+
+    <!--    Restaurant Data-->
+    <string name="att_2_11">Kishlak</string>
+    <string name="att_2_12">Seyfullin Street, Bostandyk District</string>
+    <string name="att_2_13">Kishlak is a cozy and relaxed restaurant specializing in traditional Central Asian cuisine. The interior of each of the three dining rooms is beautifully decorated with distinct Central Asian motifs. It represents three traditional household settings, a farmer’s house, a merchant’s home and the living room of a rich bai.</string>
+
+    <string name="att_2_21">Alasha</string>
+    <string name="att_2_22">20 Ospanov Street, Medeu District</string>
+    <string name="att_2_23">The glistening blue domes of the renowned Uzbek restaurant Alasha, located on the outskirts of Almaty, can be easily spotted from afar. The restaurant complex, built in the Turkistan or Timurid architectural style, specific to the breathtaking city of Samarkand, has quickly become one of the favorite restaurants in Almaty.</string>
+
+
+    <!--    Nature Data-->
+    <string name="att_3_11">Medeo</string>
+    <string name="att_3_12">Alatau mount, Almaty</string>
+    <string name="att_3_13">Ice rink “Medeo” is the highest mountain sport complex in the world, it is situated at an altitude of 1691,2 metre, not far away from Almaty, was built in 1972. Skating rink became popular because of pure water, a mild climate in the valley and a gentle breeze.
+In honor of the nomad Medeu was named this beautiful mountain valley, who lived in this picturesque area in the last century. After modernization rink was improved, there were installed more than 120 world records by famous athletes.</string>
+
+    <string name="att_3_21">Big Almaty Lake</string>
+    <string name="att_3_22">Alatau mount, Almaty</string>
+    <string name="att_3_23">river in Kazakstan, it is right tributary of the river Kaskelen. The river begins from the powerful glaciers. Length of the river is 96 km. The river has several different natural zones – mountain, plain and foothill. Mountains area consists of rocks, glaciers and permanent snow. There are alpine meadows, coniferous forest and greenwood. The river and its tributaries are in mudflow risk.</string>
+
+    <string name="att_3_31">Kolsai</string>
+    <string name="att_3_32">Almaty region</string>
+    <string name="att_3_33">The Kolsay Lakes is a popular tourist destination. They are located in the Northern Tien Shan. The word “kolsay” means “lake in the gorge”, because all lakes are located in the Kolsay Gorge. There are three of them: Upper, Middle and Lower. They are all quite deep, cool and scenic.
+    </string>
+
+    <string name="att_3_41">Shymbulak</string>
+    <string name="att_3_42">Alatau mount,Almaty</string>
+    <string name="att_3_43">Shymbulak is the biggest ski resort in Central Asia. It is definitely the most modern, most comfortable, poshest and most expensive ski resort in Central Asia. The standard is international. You can find all the usual conveniences here you know from your skiing adventures back home: a hotel, a restaurant, coffee shop, wifi and an apres-ski bar.
+    </string>
+
+
+    <!--    Event Data-->
+    <string name="att_4_11">Nauryz</string>
+    <string name="att_4_12">First President\'s Park</string>
+    <string name="att_4_13">The big spring festival, celebrated throughout Central Asia, sees colourful parades in the city, and horse racing and often kokpar.</string>
+
+    <string name="att_4_21">Almaty day</string>
+    <string name="att_4_22">Center Parks</string>
+    <string name="att_4_23">The annual city festival sees numerous indoor and outdoor musical events and exhibitions (usually with one dedicated to locally grown apples), and fireworks.</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark">
+
+    <ImageView
+        android:id="@+id/place_image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height"
+        android:scaleType="centerCrop" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/margin">
+
+                <TextView
+                    android:id="@+id/place_name"
+                    style="@style/PlaceName"
+                    tools:text="Name" />
+
+                <TextView
+                    android:id="@+id/place_address"
+                    style="@style/Place"
+                    tools:text="Address" />
+
+                <TextView
+                    android:id="@+id/place_description"
+                    style="@style/Place"
+                    tools:text="Description" />
+
+
+        </LinearLayout>
+
+
+</LinearLayout>
